@@ -1,5 +1,5 @@
 {
-  "name": "astro-cloudflare-template",
+  "name": "astro-template",
   "version": "1.0.0",
   "private": true,
   "description": "Multilingual marketing + blog + docs starter with Astro and Cloudflare Pages",
